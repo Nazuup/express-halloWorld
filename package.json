@@ -1,9 +1,9 @@
 {
-  "name": "express-hello-world",
+  "name": "express-helloWorld",
   "version": "1.0.0",
   "description": "Express Hello World on Render",
   "main": "app.js",
-  "repository": "https://github.com/render-examples/express-hello-world",
+  "repository": "https://github.com/Nazuup/express-halloWorld",
   "author": "Render Developers",
   "license": "MIT",
   "private": false,
